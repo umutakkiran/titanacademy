@@ -32,7 +32,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/umuta/SporOkulu/client/node_modules/jquery/dist/jquery.min.js"
+            ]
           },
           "configurations": {
             "production": {
